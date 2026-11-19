@@ -62,19 +62,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💡 How I work
+- **From problem to production**: I start from the business need, design the architecture, then build, evaluate and deploy the full solution.
+- **Grounded answers**: retrieval, citations and evaluation so LLM outputs can be trusted and traced back to their sources.
+- **Privacy by design**: careful handling of sensitive data, with detection and filtering built into the pipeline.
+- **Measure, then optimize**: track model and retrieval quality, latency and cost, and improve what the numbers show.
+
+### 🤝 Open to
+- AI Engineer / GenAI Engineer roles (remote, on-site or international relocation)
+- Freelance and consulting work on LLM applications, RAG and AI agents
+- Research collaborations in NLP and medical imaging
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaoufAzaza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufAzaza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RaoufAzaza&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaoufAzaza&label=Profile%20views&color=22d3ee&style=flat" alt="Profile views" />
+  <a href="https://raouf-azaza.netlify.app/#contact"><img src="https://img.shields.io/badge/Let's%20work%20together-22D3EE?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Let's work together" /></a>
 </p>
 
 <p align="center"><i>🌍 French (fluent) · English (professional) · Arabic (native)</i></p>
